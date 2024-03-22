@@ -24,12 +24,5 @@ details.
 • Test the functionality of the smart contract and frontend components.
 • Deploy the smart contract on the Goerli testnet using Hardhat.
 • Utilize Alchemy for blockchain data management and integration with the frontend.
-7. Optional Extensions:
-• Explore additional functionalities, such as fetching NFTs using Alchemy's endpoints and integrating royalties for original creators.
-• Consider enhancements like enabling users to list pre-existing NFTs on the marketplace. Learning Objectives:
-• Gain hands-on experience in developing smart contracts using Solidity.
-• Understand the decentralized storage concept with IPFS for NFT metadata.
-• Implement a frontend using React.js for a seamless user experience.
-• Explore blockchain interactions and wallet integration with MetaMask.
-• Test and deploy a decentralized application on a blockchain testnet.
+
 By completing this master project, you'll have a comprehensive understanding of building a decentralized NFT marketplace, covering smart contract development, IPFS integration, frontend design, and blockchain interactions. This project serves as a valuable hands-on experience in blockchain development and decentralized application (DApp) creation. Good luck, and enjoy the journey of bringing your NFT marketplace to life!
