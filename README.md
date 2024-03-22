@@ -27,5 +27,3 @@ Secure user data and ensure a personalized experience with features such as user
 Test the functionality of the smart contract and frontend components.
 Deploy the smart contract on the Goerli testnet using Hardhat.
 Utilize Alchemy for blockchain data management and integration with the frontend.
-
-By completing this master project, you'll have a comprehensive understanding of building a decentralized NFT marketplace, covering smart contract development, IPFS integration, frontend design, and blockchain interactions. This project serves as a valuable hands-on experience in blockchain development and decentralized application (DApp) creation. Good luck, and enjoy the journey of bringing your NFT marketplace to life!
